@@ -1,0 +1,4 @@
+[build]
+  base = "frontend"
+  command = "npm install && vite build"
+  publish = "dist"
