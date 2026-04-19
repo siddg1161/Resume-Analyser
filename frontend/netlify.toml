@@ -1,4 +1,4 @@
 [build]
   base = "frontend"
-  command = "npm install && vite build"
+  command = "npm install && node node_modules/.bin/vite build"
   publish = "dist"
