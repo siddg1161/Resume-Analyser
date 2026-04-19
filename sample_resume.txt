@@ -1,0 +1,45 @@
+John Doe
+john.doe@email.com | +1 (555) 987-6543 | linkedin.com/in/johndoe | github.com/johndoe
+San Francisco, CA
+
+SUMMARY
+Results-driven Full-Stack Software Engineer with 4+ years of experience building scalable web applications and microservices. Passionate about clean code, developer experience, and shipping fast.
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Bash, HTML, CSS
+Frameworks: React, Node.js, Express, Django, FastAPI, Next.js
+Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions, Terraform
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Tools: Git, GitHub, Figma, Postman, Jira, VS Code
+Soft Skills: Agile, Scrum, Teamwork, Communication, Leadership, Problem Solving
+
+EXPERIENCE
+
+Senior Software Engineer — TechCorp Inc.  (Jan 2022 – Present)
+• Led migration of monolithic Django app to Python microservices on AWS ECS, reducing latency by 40%.
+• Built React + TypeScript frontend dashboards consumed by 50,000+ daily active users.
+• Implemented CI/CD pipelines with GitHub Actions and Docker, cutting deploy time from 45 min to 8 min.
+• Mentored 3 junior engineers through code reviews and weekly 1:1s.
+
+Software Engineer — StartupXYZ  (Jun 2020 – Dec 2021)
+• Developed RESTful APIs with Node.js and Express backed by PostgreSQL.
+• Integrated Stripe payment gateway processing $500K+ monthly.
+• Optimized MongoDB queries reducing average API response time by 60%.
+• Collaborated with design team using Figma to ship pixel-perfect UIs.
+
+PROJECTS
+
+ResumeAI (github.com/johndoe/resume-ai)
+Full-stack AI resume analyzer built with React, Flask, and pdfplumber. Deployed on AWS EC2 with Docker.
+
+Portfolio Site (github.com/johndoe/portfolio)
+Personal portfolio using Next.js, Tailwind CSS, and Framer Motion. 99/100 Lighthouse score.
+
+EDUCATION
+
+B.S. Computer Science — University of California, Berkeley  (2016 – 2020)
+GPA: 3.7 / 4.0 | Dean's List 2019, 2020
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect – Associate (2023)
+• Docker Certified Associate (2022)
